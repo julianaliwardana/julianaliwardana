@@ -1,12 +1,11 @@
 ### Hi there, I'm Julian 👋
 
 🌱 I’m currently learning in Bina Nusantara University.<br>
-✨ I'm interested in learning all about website and mobile development.<br>
+✨ I'm interested in learning all about website development.<br>
 👯 I’m looking to collaborate on many projects.<br>
 🤔 I’m looking for a network that can add relationships and enrich my knowledge.<br>
 
 ## 📇 Contact Me
-
 <a href="https://www.instagram.com/julian_aliwardana/"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Julian Alifirman Wardana | Instagram"></a>
 <a href="https://www.linkedin.com/in/julianaw30/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Julian Alifirman Wardana | LinkedIn"></a>
 <a href="mailto:julian.aliwardana@gmail.com"><img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:julian.aliwardana@gmail.com" alt="Julian Alifirman Wardana | Gmail"></a>
@@ -26,8 +25,6 @@
  ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-<br>
-
 ## 📚 Frameworks
  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,31 +35,23 @@
  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<br>
-
 ## 🗄️ Databases
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+ ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<br>
-
-## 🗄️ Tools
+## 🛠️ Tools
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
-
 ## 🔎 My Github Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=julianaliwardana&theme=tokyonight&show_icons=true&hide_border=true" alt="Julian ALifirman Wardana's Github Stats"/>
+ ![Github Stats](https://github-readme-stats.vercel.app/api?username=julianaliwardana&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&hide=contribs)
 
 ## ⌚ Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaliwardana&theme=tokyonight&layout=compact&hide_border=true" alt="Julian Alifirman Wardana's Most Used Languages"/>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=julianaliwardana&layout=compact&theme=tokyonight&show_icons=true&hide=html,scss,css&hide_border=true&card_width=240)
 <!-- **julianaliwardana/julianaliwardana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
