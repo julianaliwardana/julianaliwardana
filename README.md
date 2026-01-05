@@ -14,13 +14,15 @@ Experienced in production systems, agile teams, and real-world business applicat
 
 | Role | Company | Period | Key Contributions |
 |-----|--------|--------|-------------------|
-| **Frontend Engineer** | **Ogloba Ltd** (Jakarta) | Mar 2024 – Present | Built and maintained services for 10+ business units, delivered 150+ tasks in agile teams, architected a modular payment gateway with multi-PSP, multilingual & multicurrency support |
-| **Frontend Engineer** | **PT Kloverkres Solusi Integrasi** (Jakarta) | Mar 2023 – Dec 2023 | Redesigned Sales Order pages with UI/UX team, increased engagement by 50%, reduced drop-off by 30%, optimized data fetching performance by 50% |
-| **Software Engineer** | **PT Systeric** (Jakarta) | Jan 2022 – Feb 2023 | Built a JavaScript SDK with WebSocket & authentication, migrated frontend & backend into a monorepo, reduced API response time by 30% |
+| **Frontend Engineer** | **Ogloba Ltd** | Mar 2024 – Present | Built and maintained services for 10+ business units, delivered 150+ tasks in agile teams, architected a modular payment gateway with multi-PSP, multilingual & multicurrency support |
+| **Frontend Engineer** | **PT Kloverkres Solusi Integrasi** | Mar 2023 – Dec 2023 | Redesigned Sales Order pages with UI/UX team, increased engagement by 50%, reduced drop-off by 30%, optimized data fetching performance by 50% |
+| **Software Engineer** | **PT Systeric** | Jan 2022 – Feb 2023 | Built a JavaScript SDK with WebSocket & authentication, migrated frontend & backend into a monorepo, reduced API response time by 30% |
 
 ## 🏆 Achievements
-- 🥉 **3rd Place – Chain Fusion Hacker House**, Coinfest Asia 2024 (Bali)  
+- 🥉 **[International] 3rd Place – Chain Fusion Hacker House**, Coinfest Asia 2024 (Bali)  
   *Fully On-Chain App built in 36 hours using ICP tech stack*
+- 🥈 **[National] 2nd Place – Innovation Technology Competition 2021**
+- 🏅 **[National] Top 19 – IoT Creation 2021: Solution Hunt for Economic Recovery**
 ---
 
 ## 🌐 Connect With Me
