@@ -13,10 +13,12 @@ Experienced in production systems, agile teams, and real-world business applicat
 ## 💼 Professional Experience
 
 | Role | Company | Period | Key Contributions |
-|-----|--------|--------|-------------------|
-| **Frontend Engineer** | **Ogloba Ltd** | Mar 2024 – Present | Built and maintained services for 10+ business units, delivered 150+ tasks in agile teams, architected a modular payment gateway with multi-PSP, multilingual & multicurrency support |
-| **Frontend Engineer** | **PT Kloverkres Solusi Integrasi** | Mar 2023 – Dec 2023 | Redesigned Sales Order pages with UI/UX team, increased engagement by 50%, reduced drop-off by 30%, optimized data fetching performance by 50% |
-| **Software Engineer** | **PT Systeric** | Jan 2022 – Feb 2023 | Built a JavaScript SDK with WebSocket & authentication, migrated frontend & backend into a monorepo, reduced API response time by 30% |
+|------|--------|--------|-------------------|
+| **Frontend Engineer** | **Ogloba Ltd** | Mar 2024 – Present | Built & maintained services for 10+ business units, delivered 150+ tasks in agile teams, architected a modular payment gateway with multi-PSP, multilingual & multicurrency support |
+| **Software Engineer (Internship)** | **Ruparupa – PT Kawan Lama Group** | Feb 2023 – Feb 2024 | Improved internal application KPIs by 50%, engineered features that increased sales by 85%, optimized wrapper API for faster data fetching, implemented AI-driven popular search module, refactored Inspiration Page architecture for better performance & scalability |
+| **Frontend Engineer** | **PT Kloverkres Solusi Integrasi** | Mar 2023 – Dec 2023 | Redesigned Sales Order List & Detail pages, improved engagement by 50%, reduced user drop-off by 30%, optimized API data fetching by 50% |
+| **Software Engineer** | **PT Systeric** | Jan 2022 – Feb 2023 | Developed a JavaScript SDK with WebSocket, authentication & reconnection logic, migrated frontend & backend into a monorepo, reduced API response times by 30% |
+
 
 ## 🏆 Achievements
 - 🥉 **[International] 3rd Place – Chain Fusion Hacker House**, Coinfest Asia 2024 (Bali)  
